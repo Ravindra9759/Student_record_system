@@ -1,0 +1,37 @@
+[
+         {
+                  "roll": "33546",
+                  "name": "vinod",
+                  "marks": "99",
+                  "pincode": "244922"
+         },
+         {
+                  "roll": "56562",
+                  "name": "ramu",
+                  "marks": "55",
+                  "pincode": "234323"
+         },
+         {
+                  "roll": "32324",
+                  "name": "Vinod",
+                  "marks": "54",
+                  "F_name": "Naresh",
+                  "College_name": "Dpsvm",
+                  "Course": "12th",
+                  "Started_date": "24-12-12",
+                  "End_date": "25-12-12",
+                  "Address": "Devipura",
+                  "Mobile_Number": "7409769982"
+         },
+         {
+                  "roll": "23132",
+                  "name": "ravindra",
+                  "F_name": "naresh",
+                  "College_name": "tmu",
+                  "Course": "mca",
+                  "Started_date": "25-12-11",
+                  "End_date": "25-12-25",
+                  "Address": "devipura",
+                  "Mobile_Number": "9759029731"
+         }
+]
